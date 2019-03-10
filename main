@@ -81,6 +81,6 @@ void testdrawrect(void) {
     display.fillRect(100,0,15,7,color%2);
     display.display();
     delay(1);
-    color++;
+  //  color++;
   
 }
